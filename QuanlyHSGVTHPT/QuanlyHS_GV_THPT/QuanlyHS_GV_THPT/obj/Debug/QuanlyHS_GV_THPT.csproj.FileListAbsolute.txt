@@ -115,6 +115,3 @@ E:\C#\Hoc C#\Winform\Quan ly HS GV THPT\QuanlyHS_GV_THPT\QuanlyHS_GV_THPT\bin\De
 E:\C#\Hoc C#\Winform\Quan ly HS GV THPT\QuanlyHS_GV_THPT\QuanlyHS_GV_THPT\bin\Debug\ja\DevExpress.XtraPdfViewer.v16.1.resources.dll
 E:\C#\Hoc C#\Winform\Quan ly HS GV THPT\QuanlyHS_GV_THPT\QuanlyHS_GV_THPT\bin\Debug\ru\DevExpress.XtraPdfViewer.v16.1.resources.dll
 E:\C#\Hoc C#\Winform\Quan ly HS GV THPT\QuanlyHS_GV_THPT\QuanlyHS_GV_THPT\obj\Debug\QuanlyHS_GV_THPT.GUI.ucHDSD.resources
-C:\Users\Long\Desktop\Long\Quan ly HS GV THPT\QuanlyHS_GV_THPT\QuanlyHS_GV_THPT\bin\Debug\QuanlyHS_GV_THPT.exe.config
-C:\Users\Long\Desktop\Long\Quan ly HS GV THPT\QuanlyHS_GV_THPT\QuanlyHS_GV_THPT\obj\Debug\QuanlyHS_GV_THPT.exe
-C:\Users\Long\Desktop\Long\Quan ly HS GV THPT\QuanlyHS_GV_THPT\QuanlyHS_GV_THPT\obj\Debug\QuanlyHS_GV_THPT.pdb
